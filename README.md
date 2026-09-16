@@ -1,4 +1,4 @@
-# Rebeca-Luz-- Desafio Controle de Investimentos
+# Rebeca-Luz-- Desafio Ferramenta Controle de Investimentos
 
 ## Descrição do Projeto
 Este projeto é uma ferramenta prática desenvolvida em Microsoft Excel para simular investimentos em Fundos Imobiliários. O objetivo principal é auxiliar na tomada de decisão, projetando o crescimento do patrimônio e a geração de renda passiva ao longo do tempo. 
